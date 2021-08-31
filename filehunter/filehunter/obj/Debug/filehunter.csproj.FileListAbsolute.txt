@@ -1,0 +1,10 @@
+F:\Projeler\filehunter\filehunter\bin\Debug\filehunter.exe.config
+F:\Projeler\filehunter\filehunter\bin\Debug\filehunter.exe
+F:\Projeler\filehunter\filehunter\bin\Debug\filehunter.pdb
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.csproj.AssemblyReference.cache
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.Properties.Resources.resources
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.csproj.GenerateResource.cache
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.csproj.CoreCompileInputs.cache
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.exe
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.pdb
+F:\Projeler\filehunter\filehunter\obj\Debug\filehunter.fh.resources
